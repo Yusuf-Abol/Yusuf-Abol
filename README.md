@@ -45,7 +45,7 @@ More on [My GitHub Repositories](https://github.com/yusuf-abol) 🚀
 [![X](https://img.shields.io/badge/X.com-Follow-white?style=flat&logo=twitter)](https://x.com/yusufabol_)
 
 ---
-### 🤝🏼 Contribution
+### 🗓️ Contributions
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Yusuf-Abol&theme=react-dark)
 
