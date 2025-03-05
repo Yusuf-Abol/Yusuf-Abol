@@ -44,7 +44,7 @@ More on [My GitHub Repositories](https://github.com/your-github-username) 🚀
 
 ### 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in//yusufabol/)
-[![X](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter)](https://x.com/yusufabol_)
+[![X](https://img.shields.io/badge/X-Follow-blue?style=flat&logo=twitter)](https://x.com/yusufabol_)
 
 📩 **Email**: yusufabolarinwa@gmail.com
 
