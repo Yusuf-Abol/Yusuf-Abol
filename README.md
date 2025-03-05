@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Yusuf   
+# Welcome! 👋 I'm Yusuf   
 
 ## 🚀 Data Scientist | Machine Learning Enthusiast | Researcher
 
@@ -7,7 +7,7 @@ I'm a statistics graduate and passionate data scientist with a deep interest in 
 ---
 
 ### 🔭 Current Role:
-- **Research Lead** | Leveraging data-driven insights for business impact.
+- **Research Lead** 
 
 ### 🎯 Data Science Goals:
 - 📊 Develop high-impact **portfolio projects**.
@@ -46,16 +46,15 @@ More on [My GitHub Repositories](https://github.com/your-github-username) 🚀
 
 ### 📚 Latest Articles:
 - 📝 **Hyperparameter Tuning & Cross-Validation** (Coming soon!)
-- 📖 **A Chicken Soup for High Energy** (Personal Growth & Data Science)
-- 🔥 More on *The YZA Path* blog (Coming soon!)
+- 📖 **Debris in the Matrix** (on Data cleaning)
 
 ---
 
 ### 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-linkedin)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter)](https://twitter.com/your-twitter)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in//yusufabol/)
+[![X](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter)](https://x.com/yusufabol_)
 
-📩 **Email**: your.email@example.com
+📩 **Email**: yusufabolarinwa@gmail.com
 
 
 <!---
