@@ -34,7 +34,7 @@ More on [My GitHub Repositories](https://github.com/yusuf-abol) 🚀
 - 📝 **Hyperparameter Tuning & Cross-Validation** (Coming soon!)
 - 📖 **Debris in the Matrix** (on Data cleaning//Storytelling)
 
-
+https://
 
 
 ---
@@ -42,7 +42,7 @@ More on [My GitHub Repositories](https://github.com/yusuf-abol) 🚀
 ### 💬 Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in//yusufabol/)
 [![X](https://img.shields.io/badge/X.com-Follow-white?style=flat&logo=twitter)](https://x.com/yusufabol_)
-
+[![Medium](https://img.shields.io/badge/Medium-Connect-dark?style=flat&logo=medium)](https://medium.com/@yusufabolarinwa)
 ---
 ### 🗓️ Contributions
 
