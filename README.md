@@ -19,25 +19,17 @@ I'm a statistics graduate and passionate data scientist with a deep interest in 
 
 ### 🌟 Featured Projects:
 
-#### 🚀 Near-Earth Objects Detection and Risk Assessment
+#### 🚀 Near-Earth Objects Classification and Risk Assessment
 - **Phase I**: Exploratory & Data Preparation Study 📊
 - **Phase II**: Model Building & Risk Assessment 🔍
 
-#### 🤖 Image Classification with CNN
-- My first deep learning portfolio project! 🖼️
-
-#### 💬 NLP Sentiment Analysis
-- Exploring language processing for sentiment insights. 📝
-
-#### 🏨 Travel & Airline Pricing Dataset
-- Building a dataset to power flexible ML applications. 📈
 
 More on [My GitHub Repositories](https://github.com/your-github-username) 🚀
 
 ---
 
 ### 🛠️ Tech & Tools:
-- **Programming**: Python, SQL (PostgreSQL)
+- **Programming**: Python, R, SQL (PostgreSQL)
 - **ML/DL**: Scikit-learn, NLTK, PyTorch
 - **Data Viz**: Matplotlib, Seaborn, Plotly 
 - **Other**: Git, Jupyter Notebook, VS Code
