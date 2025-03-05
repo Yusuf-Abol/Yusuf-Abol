@@ -4,16 +4,8 @@
 
 
 ---
+### 📫 Email: yusufabolarinwa@gmail.com
 
-### 🔭 Current Role:
-- **Lead Research Scientist**
-
-
-### 🎯 Q1 '25 Data Science Goals
-- 📊 Develop high-impact **portfolio projects**.
-- ✍️ Write engaging **data science articles**.
-- 🤝 Join **communities, teams, and hackathons** to grow & contribute.
-- 🏆 Become a **top data scientist** through continuous learning and innovation.
 
 ---
 
@@ -41,14 +33,14 @@ More on [My GitHub Repositories](https://github.com/yusuf-abol) 🚀
 
 ### 📚 Latest Articles:
 - 📝 **Hyperparameter Tuning & Cross-Validation** (Coming soon!)
-- 📖 **Debris in the Matrix** (on Data cleaning)
+- 📖 **Debris in the Matrix** (on Data cleaning//Storytelling)
 
 
 
 
 ---
 
-### 📫 Meet me on
+### 💬 Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in//yusufabol/)
 [![X](https://img.shields.io/badge/X.com-Follow-white?style=flat&logo=twitter)](https://x.com/yusufabol_)
 
