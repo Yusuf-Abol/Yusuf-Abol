@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]  
+# Hi there! 👋 I'm Yusuf   
 
 ## 🚀 Data Scientist | Machine Learning Enthusiast | Researcher
 
@@ -7,7 +7,7 @@ I'm a statistics graduate and passionate data scientist with a deep interest in 
 ---
 
 ### 🔭 Current Role:
-- **Customer Intelligence Analyst** | Leveraging data-driven insights for business impact.
+- **Research Lead** | Leveraging data-driven insights for business impact.
 
 ### 🎯 Data Science Goals:
 - 📊 Develop high-impact **portfolio projects**.
@@ -38,8 +38,8 @@ More on [My GitHub Repositories](https://github.com/your-github-username) 🚀
 
 ### 🛠️ Tech & Tools:
 - **Programming**: Python, SQL (PostgreSQL)
-- **ML/DL**: Scikit-learn, TensorFlow, PyTorch
-- **Data Viz**: Matplotlib, Seaborn, Plotly (Black Background + Dim Font Colors 🎨)
+- **ML/DL**: Scikit-learn, NLTK, PyTorch
+- **Data Viz**: Matplotlib, Seaborn, Plotly 
 - **Other**: Git, Jupyter Notebook, VS Code
 
 ---
