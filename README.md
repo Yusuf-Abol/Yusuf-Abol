@@ -7,6 +7,7 @@
 ### 📫 Email: yusufabolarinwa@gmail.com
 
 
+
 ---
 
 ### 🌟 Featured Projects:
@@ -24,10 +25,8 @@ More on [My GitHub Repositories](https://github.com/yusuf-abol) 🚀
 ---
 
 ### 🛠️ Tech & Tools:
-- **Programming**: Python, R, SQL (PostgreSQL)
-- **ML/DL**: Scikit-learn, NLTK, PyTorch
-- **Data Viz**: Matplotlib, Seaborn, Plotly 
-- **Other**: Git, Jupyter Notebook, VS Code
+![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=sql)
 
 ---
 
