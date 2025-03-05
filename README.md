@@ -26,7 +26,8 @@ More on [My GitHub Repositories](https://github.com/yusuf-abol) 🚀
 
 ### 🛠️ Tech & Tools:
 ![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=sql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ---
 
@@ -34,7 +35,6 @@ More on [My GitHub Repositories](https://github.com/yusuf-abol) 🚀
 - 📝 **Hyperparameter Tuning & Cross-Validation** (Coming soon!)
 - 📖 **Debris in the Matrix** (on Data cleaning//Storytelling)
 
-https://
 
 
 ---
