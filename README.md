@@ -12,7 +12,7 @@
 
 ### 🌟 Featured Projects:
 
-#### ☄️ Near-Earth Objects Classification and Risk Assessment I
+#### ☄️ Near-Earth Objects Classification and Risk Assessment: An Exploratory Study
   - [view here](https://github.com/Yusuf-Abol/Near-Earth-Objects-Classification-and-Risk-Assessment) 
 
 
