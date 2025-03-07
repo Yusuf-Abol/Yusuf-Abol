@@ -12,13 +12,8 @@
 
 ### 🌟 Featured Projects:
 
-#### 🚀 Near-Earth Objects Classification and Risk Assessment
-- **Phase I**: Exploratory & Data Preparation Study 📊
-- **Phase II**: Model Building & Risk Assessment 🔍
-
-
-
-More on [My GitHub Repositories](https://github.com/yusuf-abol) 🚀
+#### 🚀 Near-Earth Objects Classification and Risk Assessment I
+[project here](https://github.com/Yusuf-Abol/Near-Earth-Objects-Classification-and-Risk-Assessment) 🚀
 
 
 
