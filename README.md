@@ -34,8 +34,8 @@
 ### 📚 Latest Articles:
 - 📝 **Hyperparameter Tuning & Cross-Validation** (Coming soon!)
 
-- 📖 **Debris in the Matrix** [Read here](https://medium.com/@yusufabolarinwa/debris-in-the-matrix-0ae923a39f0d) 
-- 
+- 📖 **Debris in the Matrix** [read here](https://medium.com/@yusufabolarinwa/debris-in-the-matrix-0ae923a39f0d) 
+
 
 
 
