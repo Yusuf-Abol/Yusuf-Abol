@@ -1,3 +1,6 @@
+![Profile views](https://komarev.com/ghpvc/?username=Yusuf-Abol)
+
+
 # Hi! I'm Yusuf Abolarinwa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00A6FF&center=false&vCenter=true&width=500&lines=Data+Scientist+%7C+ML+Enthusiast+%7C+Researcher;Exploring+AI%2C+ML%2C+and+Data+Science;Building+Impactful+Projects;Sharing+Knowledge+%F0%9F%93%9A)
