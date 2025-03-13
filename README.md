@@ -20,6 +20,10 @@
 ![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-3.6.3-yellowgreen?style=for-the-badge&logo=r&logo=nltk)
+![Sci-kit](https://img.shields.io/badge/Scikitlearn-blue?style=for-the-badge&logo=r&logo=scikit)
+![Gensim](https://img.shields.io/badge/Gensim-4.1.2-green?style=for-the-badge&logo=r&logo=gensim)
+![Optuna](https://img.shields.io/badge/Optuna-blue?style=for-the-badge&logo=r&logo=optuna)
 
 
 ---
