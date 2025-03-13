@@ -37,7 +37,7 @@
 ### 💬 Connect With Me:
 [![Kaggle](https://img.shields.io/badge/Kaggle-Here-blue?style=flat&logo=kaggle)]([https://x.com/yusufabol_](https://www.kaggle.com/abolarinwayusuf))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in//yusufabol/)
-[![Medium](https://img.shields.io/badge/Medium-Connect-dark?style=flat&logo=medium)](https://medium.com/@yusufabolarinwa)
+[![Medium](https://img.shields.io/badge/Medium-Read-dark?style=flat&logo=medium)](https://medium.com/@yusufabolarinwa)
 [![X](https://img.shields.io/badge/X.com-Follow-white?style=flat&logo=twitter)](https://x.com/yusufabol_)
 
 ---
