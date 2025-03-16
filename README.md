@@ -15,8 +15,9 @@
 
 ### 🌟 Featured Projects
 
- 💬 **Alumni-Interaction-and-Conversation-Dynamics-NLP** [Hit Me!](https://github.com/Yusuf-Abol/Alumni-Interaction-and-Conversation-Dynamics-NLP)
-☄️ **Near-Earth Objects Classification and Risk Assessment** [Hit Me!](https://github.com/Yusuf-Abol/Near-Earth-Objects-Classification-and-Risk-Assessment)
+ 💬 **Alumni-Interaction-and-Conversation-Dynamics-NLP** [View Project](https://github.com/Yusuf-Abol/Alumni-Interaction-and-Conversation-Dynamics-NLP)
+ 
+☄️ **Near-Earth Objects Classification and Risk Assessment** [View Project](https://github.com/Yusuf-Abol/Near-Earth-Objects-Classification-and-Risk-Assessment)
 
 
 ---
