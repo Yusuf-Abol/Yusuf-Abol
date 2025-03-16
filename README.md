@@ -7,19 +7,21 @@
 
 
 ---
-### 📫 Email: yusufabolarinwa@gmail.com
+### 📫 Email. yusufabolarinwa@gmail.com
 
 
 
 ---
 
-### 🌟 Featured Projects:
-☄️ **Near-Earth Objects Classification and Risk Assessment** [VIEW](https://github.com/Yusuf-Abol/Near-Earth-Objects-Classification-and-Risk-Assessment)
+### 🌟 Featured Projects
+
+ 💬 **Alumni-Interaction-and-Conversation-Dynamics-NLP** [Hit Me!](https://github.com/Yusuf-Abol/Alumni-Interaction-and-Conversation-Dynamics-NLP)
+☄️ **Near-Earth Objects Classification and Risk Assessment** [Hit Me!](https://github.com/Yusuf-Abol/Near-Earth-Objects-Classification-and-Risk-Assessment)
 
 
 ---
 
-### 🛠️ Tech Stack:
+### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
