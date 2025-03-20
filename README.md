@@ -58,6 +58,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yusuf-abol&show_icons=true&theme=radical)
 
+ <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Yusuf-Abol&count_private=true&theme=radical&border_radius=10" alt="streak stats"/>
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yusuf-abol&layout=compact&theme=radical)
 
