@@ -56,11 +56,11 @@
 ### ⚡ Stats 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yusuf-abol&show_icons=true&theme=tokyonight-duo)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yusuf-abol&show_icons=true&theme=react)
 
-![GitHub Streak](https://github-readme-streak-stats-salesp07.vercel.app/?user=Yusuf-Abol&count_private=true&theme=cyber-streakglow&border_radius=10&hide_border=false)
+![GitHub Streak](https://github-readme-streak-stats-salesp07.vercel.app/?user=Yusuf-Abol&count_private=true&theme=react&border_radius=10&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yusuf-abol&layout=compact&theme=tokyonight-duo)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yusuf-abol&layout=compact&theme=react)
 
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yusuf-Abol&theme=react-dark)
