@@ -53,17 +53,17 @@
 [![X](https://img.shields.io/badge/X.com-Follow-white?style=flat&logo=twitter)](https://x.com/yusufabol_)
 
 ---
-### 🗓️ Contributions
+### ⚡ Stats 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yusuf-abol&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yusuf-abol&show_icons=true&theme=tokyonight)
 
- <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Yusuf-Abol&count_private=true&theme=radical&border_radius=10" alt="streak stats"/>
+![GitHub Streak](https://github-readme-streak-stats-salesp07.vercel.app/?user=Yusuf-Abol&count_private=true&theme=tokyonight&border_radius=10&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yusuf-abol&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yusuf-abol&layout=compact&theme=tokyonight)
 
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yusuf-Abol&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yusuf-Abol&theme=nightowl)
 
 
 
