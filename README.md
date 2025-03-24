@@ -18,7 +18,7 @@
 
  💬 **Alumni Interaction and Conversation Dynamics** [View Project](https://github.com/Yusuf-Abol/Alumni-Interaction-and-Conversation-Dynamics-NLP)
  
- 🌑 **NEOCLARA-I: Near-Earth Classification & Risk Assessment** [View Project](https://github.com/Yusuf-Abol/NEOCLARA-I)
+ 🌑 **NEOCLARA-I: Near-Earth Objects Classification & Risk Assessment** [View Project](https://github.com/Yusuf-Abol/NEOCLARA-I)
 
 
 ---
