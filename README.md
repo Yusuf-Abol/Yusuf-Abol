@@ -14,7 +14,7 @@
 ---
 
 ### 🌟 Featured Projects
- 🔭 **NEOCLARA-II: Benchmarking Algorithms** [In Progress](https://github.com/Yusuf-Abol/NEOCLARA-II)
+ 🔭 **NEOCLARA-II: Performance Evaluation of Classification Models** [In Progress](https://github.com/Yusuf-Abol/NEOCLARA-II)
 
  💬 **Alumni Interaction and Conversation Dynamics** [View Project](https://github.com/Yusuf-Abol/Alumni-Interaction-and-Conversation-Dynamics-NLP)
  
