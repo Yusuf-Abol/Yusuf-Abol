@@ -68,6 +68,8 @@
 
 
 ---
+<p align="left"> QUOTE OF THE DAY✨ </p>
+
                                  Somewhere, something incredible is waiting to be known. We are made of star-stuff,
                              a way for the universe to know itself. As we explore, we not only discover the cosmos, 
                                        but also ourselves, understanding our place in the grand story of existence.
