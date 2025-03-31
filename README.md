@@ -68,12 +68,16 @@
 
 
 ---
-<p align="left"> QUOTE OF THE DAY✨ </p>
+---
+---
+<p align="center" style="font-size: 12px; font-family: 'Courier New', monospace;">QUOTE OF THE DAY✨</p>
 
-                                 Somewhere, something incredible is waiting to be known. We are made of star-stuff,
-                             a way for the universe to know itself. As we explore, we not only discover the cosmos, 
-                                       but also ourselves, understanding our place in the grand story of existence.
-                                                                                              - Carl Sagan [Cosmos]
+<p align="center" style="font-size: 12px; font-family: 'Courier New', monospace;">
+    "Somewhere, something incredible is waiting to be known. We are made of star-stuff, a way for the universe to know itself. As we explore, we not only discover the cosmos, but also ourselves, understanding our place in the grand story of existence."
+    <br>— Carl Sagan, *Cosmos*
+</p>
+
+
 
 
 <!---
