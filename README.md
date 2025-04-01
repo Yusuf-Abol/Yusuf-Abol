@@ -15,7 +15,7 @@
 
 ### 🌟 Featured Projects
 
- 🚄 **JetRail-Traffic-Forecasting** [In Progress](https://github.com/Yusuf-Abol/NEOCLARA-II)
+ 🚄 **JetRail Traffic Forecasting** [In Progress](https://github.com/Yusuf-Abol/JetRail-Traffic-Forecasting)
    
  🔭 **NEOCLARA-II: Performance Evaluation of Classification Models** [In Progress](https://github.com/Yusuf-Abol/NEOCLARA-II)
 
