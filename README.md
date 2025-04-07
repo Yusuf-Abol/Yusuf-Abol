@@ -13,7 +13,7 @@
 
 ---
 
-### 🌟 Featured Projects
+### 🌟 Top Projects
 
  🚄 **HSR Passenger Demand Forecast** [Dive In](https://github.com/Yusuf-Abol/JetRail-Traffic-Forecasting)
    
