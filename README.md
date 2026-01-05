@@ -11,50 +11,12 @@
 
 
 
----
-
-### 🌟 Top Projects
-
- 🚄 **HSR Passenger Demand Forecast** [Dive In](https://github.com/Yusuf-Abol/JetRail-Traffic-Forecasting)
-   
- 🔭 **NEOCLARA-II: Performance Evaluation of Classification Models** [In Progress](https://github.com/Yusuf-Abol/NEOCLARA-II)
-
- 💬 **Alumni Interaction and Conversation Dynamics** [View Project](https://github.com/Yusuf-Abol/Alumni-Interaction-and-Conversation-Dynamics-NLP)
- 
- 🌑 **NEOCLARA-I: Near-Earth Objects Classification & Risk Assessment** [View Project](https://github.com/Yusuf-Abol/NEOCLARA-I)
-
-
----
-
-### 📦 Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-3.6.3-yellowgreen?style=for-the-badge&logo=r&logo=nltk)
-![Sci-kit](https://img.shields.io/badge/Scikitlearn-blue?style=for-the-badge&logo=r&logo=scikit)
-![Gensim](https://img.shields.io/badge/Gensim-4.1.2-green?style=for-the-badge&logo=r&logo=gensim)
-![Optuna](https://img.shields.io/badge/Optuna-blue?style=for-the-badge&logo=r&logo=optuna)
-
-
----
-
-### 📚 Latest Articles
-
-- 📝 **Hyperparameter Tuning & Cross-Validation** (Ready soon!)
-
-- 📖 **Debris in the Matrix** [READ](https://medium.com/@yusufabolarinwa/debris-in-the-matrix-0ae923a39f0d) 
 
 
 
 
----
 
-### 💬 Connect With Me
-[![Kaggle](https://img.shields.io/badge/Kaggle-Here-blue?style=flat&logo=kaggle)](https://www.kaggle.com/abolarinwayusuf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in//yusufabol/)
-[![Medium](https://img.shields.io/badge/Medium-Read-dark?style=flat&logo=medium)](https://medium.com/@yusufabolarinwa)
-[![X](https://img.shields.io/badge/X.com-Follow-white?style=flat&logo=twitter)](https://x.com/yusufabol_)
+
 
 ---
 ### ⚡ Stats 
